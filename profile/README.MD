@@ -1,6 +1,6 @@
 <center>
 
-![Logo da comunidade Devs Jequié](assets/logo.png)
+![Logo da comunidade Devs Jequié](profile/asssets/logo.png)
 
 </center>
 
