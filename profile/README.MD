@@ -1,4 +1,4 @@
-<center>
+<p align="center">
 
 <a href="https://campsite.bio/devsjequie">
 
@@ -6,7 +6,7 @@
 
 </a>
 
-</center>
+</p>
 
 ## Sobre
 Comunidade open source criada em abril de 2021 com o intuito não só de expandir o Network, mas principalmente fomentar e ajudar pessoas da área (atuantes ou que pretendem iniciar) de tecnologia que moram em Jequié, Bahia e nos seus arredores que não tem a visibilidade de grandes centros do Brasil.
