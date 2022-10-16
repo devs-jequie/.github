@@ -2,7 +2,7 @@
 
 <a href="https://campsite.bio/devsjequie">
 
-![Logo da comunidade Devs Jequié](profile/assets/logo.png)
+  <img src="profile/assets/logo.png" />
 
 </a>
 
